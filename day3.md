@@ -6,11 +6,11 @@ any kinda, BUT Debian is recommended.
 * Previously known as Backtrack
 * Login Interface
 * You can switch between your Desktop environment
-# There are 4 Types of desktop environment on linux
-*1 Gnome
-*2 KDE plasma
-*3 mate
-*4 XFCE
+## There are 4 Types of desktop environment on linux
+* 1 Gnome
+* 2 KDE plasma
+* 3 mate
+* 4 XFCE
 # 1) Information gathering
 * ●Tools for information gathering, in system,network, host
 * dmitry
@@ -134,23 +134,23 @@ purposes
 *● Linux Systems uses shell. The shell help us to
 Communicate with the kernel and helps to execute
 codes.
-*● This is the shells icon —->
-*● Shell also called “Terminal
-*● The terminal have 5 parts.
+* ● This is the shells icon —->
+* ● Shell also called “Terminal
+* ● The terminal have 5 parts.
 ○ Username = rexder
 ○ Hostname = HunterMachine
 ○ Current Directory = PATH
 ○ Priviledge = $-(user) , #-(root)
 ○ Command place = _
-*● Home directory is ~
-*● Local directory with .
-*● All directory *
+* ● Home directory is ~
+* ● Local directory with .
+* ● All directory *
 # Linux Command Basics
-*● On linux there are over 100
+* ● On linux there are over 100
 commands. But we will see
 the main and the useful
 only.
-*● Also those commands have
+* ● Also those commands have
 their own options and
 arguments.
 # What is command
@@ -202,10 +202,10 @@ passed as an argument . This is a built
 in command that is mostly used in
 shell scripts and batch files to output
 status text to the screen or a file.
-*● You can write texts into
+* ● You can write texts into
 files.
 ○ echo text > file.txt
-*● You can add texts(append)
+* ● You can add texts(append)
 ○ echo text >> file.txt
 # cat / head / tail / less
 SYNOPSIS
@@ -249,21 +249,21 @@ Mv [oldFILEplace] [newfilePlace]
 DESCRIPTION
 Copy/move files & folders
 # grep - global search for regular expression
-● grep [options] pattern [files]
-● The grep filter searches a file for a
+* ● grep [options] pattern [files]
+* ● The grep filter searches a file for a
 particular pattern of characters, and
 displays all lines that contain that pattern.
 The pattern that is searched in the file is
 referred to as the regular expression (grep
 stands for global search for regular
 expression and print out).
-*● grep -i “search” file
+* ● grep -i “search” file
 ○ - case insensitive
-*● grep -c “search” file
+* ● grep -c “search” file
 ○ - count numbers
-*● grep -l “search” *
+* ● grep -l “search” *
 ○ - displays filename
-*● grep -R “search” foldername
+* ● grep -R “search” foldername
 ○ - search text in folders
 # Wc - word count
 SYNOPSIS
@@ -274,8 +274,8 @@ word count, byte and characters count in
 the files specified in the file arguments.
 Line(-l) word(-w) byte(-c)
 # Multiple Command Executions
-*● You can run/ execute multiple commands in 1 line.
-*● using 3 methods:
+* ● You can run/ execute multiple commands in 1 line.
+* ● using 3 methods:
 ○ And ( && )
 ○ Or ( || )
 ○ Pipeing( | )
