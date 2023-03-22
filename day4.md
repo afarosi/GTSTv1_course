@@ -17,7 +17,7 @@ root directory
 directory
 * /root is the root user’s home directory, which is not the
 same as /
-## b2) bin - Binary executables
+## 2) bin - Binary executables
 * Essential command binaries that need to be available in
 single-user mode; for all
 users
@@ -78,16 +78,16 @@ system and users.
 * Files under this directory are deleted when system is
 rebooted.
 ## 13) /usr - User Utilities
- *- Contains binaries, libraries, documentation, and
+* Contains binaries, libraries, documentation, and
 source-code for second level programs.
-* - /usr/bin contains binary files for user programs. If
+* /usr/bin contains binary files for user programs. If
 you can’t find a user binary under /bin, look under
 /usr/bin. For example: at, awk, cc, less, scp
-* - /usr/sbin contains binary files for system
+* /usr/sbin contains binary files for system
 administrators. If you can’t find a system binary
 under /sbin, look under /usr/sbin. For example: atd,
 cron, sshd, useradd, userdel
-* - /usr/lib contains libraries for /usr/bin and
+* /usr/lib contains libraries for /usr/bin and
 /usr/sbin
 * /usr/src holds the Linux kernel sources,
 header-files and documentation.
@@ -114,7 +114,7 @@ Text Editors
 ** It have to modes
 * Command mode -> where you can do commands
 * Input mode -> where you can write
-**Opening vim
+** Opening vim
 Syntax 
 vim yourfilename
 Vim is by default on command mode when you open it.
@@ -122,7 +122,7 @@ To get on insert mode you
 have to type ‘i’
 ** Insert mode
 *Press ‘i’
-**Command mode
+** Command mode
 * To get back to command mode you press ‘esc’
 ** Inside Command mode you can
 * Save
