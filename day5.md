@@ -1,27 +1,27 @@
 # Advanced Linux User!
 ## Some advanced user commands
-** To change password of user
+* To change password of user
 * sudo passwd username
-** To change user id
+* To change user id
 * sudo usermod -u new_id
 username
-** To Delete User
+* To Delete User
 * sudo userdel -r username
-** To Change users on terminal
+**To Change users on terminal
 ## Sudoers file
-** The sudoers file is a file Linux and Unix administrators use to
+**The sudoers file is a file Linux and Unix administrators use to
 allocate system rights to system users
-** The user you created doesn’t have power to use sudo as the
+**The user you created doesn’t have power to use sudo as the
 original one.
-** This is Because it is not Added in the sudoers file ( የSudoዎች file )
-** To access this file
+**This is Because it is not Added in the sudoers file ( የSudoዎች file )
+**To access this file
 * sudo visudo
 - The 1st appearance when you open the sudoers file
 - You can add the User you need to have access to the sudoers file, so he can use the sudo
 command.
 - Then after the user can use sudo command
 ## Linux File permission
-** Every file on linux have their own
+**Every file on linux have their own
 * Owner
 * Permissions
 ** There is 5 main parts on the listing
