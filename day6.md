@@ -1,5 +1,5 @@
-## Introduction to Python Programming
-# What is Programming language
+# Introduction to Python Programming
+## What is Programming language
 ● It is language which helps to communicate with computers
 {they are not able to understand human languages}
 ● We humans have lots of
