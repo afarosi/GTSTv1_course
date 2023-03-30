@@ -116,8 +116,7 @@ Type this
 ■ setw -g pane-base-index 1
 Save it | exit tmux and open again
 ## Wget
-Is a tool used to download ﬁles from websites/servers
-Syntax
-wget [options] [link]
-wget https://tldp.org/LDP/intro-linux/intro-linux.pdf
+* Is a tool used to download ﬁles from websites/servers Syntax
+   - wget [options] [link]
+   - wget https://tldp.org/LDP/intro-linux/intro-linux.pdf
 # CLASS is OVER!
